@@ -80,7 +80,6 @@ margin: 0 auto;
 }
 
 
-/* Header */
 
 #header {
 	width: 642px;
@@ -335,9 +334,7 @@ padding-left: 9px;
 }
 
 
-/*
-scroll styles here
-*/
+
 
 .item { width: 624px; height: 300px;}
 .item img {float:left;}
