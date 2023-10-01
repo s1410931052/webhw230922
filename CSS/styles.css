@@ -328,7 +328,7 @@ color: #FFFFFF;
 }
 
 
-.scroll_my
+.scrl_my
 {
 padding-left: 9px;
 }
@@ -349,19 +349,19 @@ padding-left: 9px;
 .navi a { width: 17px; cursor:pointer; height: 14px; float:left; margin:0 0 0 1px; background:url(../images/prev_but.png) no-repeat scroll right top; display:block; font-size:1px;} 
 .navi a:hover, .navi a.active { background-position:left top; margin:0 0 0 1px;  background:url(../images/prev_but_hov.png) no-repeat scroll right top}
 
-.header1
+.scrl1
 {
 width: 624px; height: 300px;
 background: url(../images/image_scroll.jpg) no-repeat;
 }
 
-.header2
+.scrl2
 {
 width: 624px; height: 300px;
 background: url(../images/image_scroll2.jpg) no-repeat;
 }
 
-.header3
+.scrl3
 {
 width: 624px; height: 300px;
 background: url(../images/image_scroll3.jpg) no-repeat;
